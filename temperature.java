@@ -1,6 +1,5 @@
 /* 
- *  CIS 265: Homework
- *  Description: Write a Java Program for converting 35 degrees Celsius to Fahrenheit
+ *  Description: A Java Program for converting 35 degrees Celsius to Fahrenheit
 */
 
 public class temperature  
@@ -10,4 +9,5 @@ public class temperature
           Celsius= 35;  
           Fahrenheit =((Celsius*9)/5)+32;  
           System.out.println("Temperature in Fahrenheit is: "+Fahrenheit);  
-    }}
+   }
+}
